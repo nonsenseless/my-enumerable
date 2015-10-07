@@ -103,9 +103,4 @@ module Enumerable
   end
 
 
-  def multiply_els(numbers_to_multiply)
-
-  end
-
-
 end
